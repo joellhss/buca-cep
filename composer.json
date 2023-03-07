@@ -1,8 +1,11 @@
 {
     "name": "joel/buca-cep",
     "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
         "psr-4": {
-            "Joel\\BucaCep\\": "src/"
+            "Joel\\BuscaCep\\": "src/"
         }
     },
     "authors": [
