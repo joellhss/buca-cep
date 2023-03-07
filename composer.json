@@ -1,0 +1,15 @@
+{
+    "name": "joel/buca-cep",
+    "autoload": {
+        "psr-4": {
+            "Joel\\BucaCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joel Henrique",
+            "email": "joelhenrique78@gmail.com"
+        }
+    ],
+    "require": {}
+}
